@@ -1,4 +1,4 @@
-# AngularJS Full-Stack generator
+# AngularJS Full-Stack generator (HELLOWORLD)
 [![Build Status](https://travis-ci.org/DaftMonk/generator-angular-fullstack.svg?branch=master)](http://travis-ci.org/DaftMonk/generator-angular-fullstack)
 [![npm version](https://badge.fury.io/js/generator-angular-fullstack.svg)](http://badge.fury.io/js/generator-angular-fullstack)
 [![Dependency Status](https://david-dm.org/daftmonk/generator-angular-fullstack.svg)](https://david-dm.org/daftmonk/generator-angular-fullstack)
